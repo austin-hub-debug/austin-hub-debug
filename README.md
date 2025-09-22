@@ -1,7 +1,7 @@
 <h1>Hi, I'm Austine</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<b>HTML & CSS</b>
+<b>HTML & CSS</b><br/>
 [Landing page with blur effect]
 <h2>📺 Languages</h2>
 -HTML<br/>
