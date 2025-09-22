@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>HTML & CSS</b><br/>
-[Landing page with blur effect]
+.[Landing page with blur effect](https://github.com/austin-hub-debug/landing-page-with-blur-effect.git)
 <h2>📺 Languages</h2>
 -HTML<br/>
 -CSS<br/>
