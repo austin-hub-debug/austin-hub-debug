@@ -77,13 +77,6 @@
   <li>Prioritize accessibility, performance, and measurable user outcomes</li>
 </ul>
 
-<!-- Metrics / GitHub Stats (use generated images) -->
-<h2 id="stats">GitHub Snapshot</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=austine-odongo&show_icons=true" alt="Austine's GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=austine-odongo" alt="streak" />
-</p>
 
 <!-- Contact -->
 <h2 id="contact">Contact</h2>
